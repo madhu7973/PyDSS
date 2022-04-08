@@ -43,15 +43,17 @@
 # y = bytes(x)
 # for z in y: print(z)
 
-# l = [10,30]
-# l.append(20)
-# l.append(30)
-# l.append(None)
-# l.append('py')
-# l.append(1.25)
-# l.append(True)
-# l.append(1+2j)
-# l.append([79, 99])
+l = [10,30]
+l.append(20)
+l.append(30)
+l.append(None)
+l.append('py')
+l.append(1.25)
+l.append(True)
+l.append(1+2j)
+l.append([79, 99])
+
+#print(l[-3])
 #print(l)
 
 #print(l[:3])
