@@ -23,7 +23,37 @@
 # b = bytes(a)
 # for c in b: print(c)
 
-a = [10, 20, 30]
-b = bytearray(a)
-a[0] = 23
-for c in b: print(c)
+# a = [10, 20, 30]
+# b = bytearray(a)
+# print(type(b))
+# b[0] = 23
+# for c in b: print(c)
+
+# a = []
+# b = bytearray(a)
+# b[0] = 11
+# for c in b: print(c)
+
+# a = [10, 20, None]
+# b = bytearray(a)
+# b[0] = 11
+# for c in b: print(c)
+
+# x = [None]
+# y = bytes(x)
+# for z in y: print(z)
+
+# l = [10,30]
+# l.append(20)
+# l.append(30)
+# l.append(None)
+# l.append('py')
+# l.append(1.25)
+# l.append(True)
+# l.append(1+2j)
+# l.append([79, 99])
+#print(l)
+
+#print(l[:3])
+# l.remove(30)
+# print(l)
