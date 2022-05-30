@@ -1,0 +1,5 @@
+# print(10 == 20)
+print("madhu" == 'madhu')
+print(False == False)
+print(0 == 0)
+print(10+20j == 10+20j)

@@ -35,10 +35,21 @@
 # s2 = 3 + 'durga'
 # print(s2)
 
-s3 = 'durga' * 'durga'
+# s3 = 'durga' * 'durga'
 # s4 = 3 * 'durga'
-print(s3)
+# print(s3)
 # d = 'durga' * 3
 # print(d)
 # e = 5.3 * 'durga'
 # print(e)
+
+# a = 1+2j
+# b = 3+4j
+
+# print(a > b)
+# print(a < b)
+
+if(10<20<50):
+   print('hey')
+else:
+   print('noo')
