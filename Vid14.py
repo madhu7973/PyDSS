@@ -9,7 +9,8 @@ s = 'pythonlanguage'
 
 # import math as m
 # print(m.sqrt(81))
-# print(m.log10(10))
+# print(m.log10(10))99
+
 
 # from math import sqrt
 # print(sqrt(1081))
