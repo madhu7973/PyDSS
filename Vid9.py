@@ -1,6 +1,6 @@
-# l1 = [10, 'twenty', 30+40j, True, [False, 0]]
-# l2 = l1*2
-# print(l1)
+l1 = [10, 'twenty', 30+40j, True, [False, 0]]
+l2 = l1*2
+print(l1)
 
 # l3 = [10, 20, 30]
 # l4 = l3 * 2
