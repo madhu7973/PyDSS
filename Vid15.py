@@ -20,3 +20,17 @@
 # print(eval(x))
 # list = input('enter the list: ')
 # print(eval(list))
+
+# x = eval(input('enter some data: '))
+# print(x)
+
+# y = eval(input('enter data: '))
+# print(y)
+
+# a,b,c = [eval(i) for i in input('enter values: ').split('5')]
+# print(a)
+# print(b)
+# print(c)
+
+from sys import argv
+print(type(argv))
