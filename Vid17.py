@@ -22,5 +22,5 @@ elif name == "Madhu":
    print("name is Madhu")
 elif name == "Sudan":
    print("name is Sudan")
-else:
-   print("no match")
+# else:
+#    print("no match")
